@@ -10,4 +10,4 @@ back-end framework: Django
 
 front-end framework: Vue
 
-using "python manage.py runserver" to run this project, URL: 
+using "python manage.py runserver" to run this project
